@@ -39,7 +39,7 @@ INFORMATION TECHNOLOGY {#skills}
 
 - Experienced in statistical analysis, statistical learning models, and optimization methods.
 
-- Proficient in Python (Scikit-Learn), R(Tidyverse), SQL, SAS, VBA,Bash, LateX, C++(basic level), 
+- Proficient in Python (Scikit-Learn), R(Tidyverse), SQL, SAS, VBA,Bash, LateX, C++(basic level), data viz (streamlit, Rshiny).
 
 
 
