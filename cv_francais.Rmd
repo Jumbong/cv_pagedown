@@ -39,7 +39,7 @@ OUTILS D'ANALYSE  {#skills}
 
 - Expérimenté en analyse statistique, en modèles d'apprentissage statistique et en méthodes d'optimisation.
 
-- Compétent en Python (Scikit-Learn), R (Tidyverse), SQL, SAS, VBA, Bash, LaTeX, et C++ (niveau de base), data viz (streamlit, Rshiny).
+- Compétent en Python (Scikit-Learn), R (Tidyverse), SQL, SAS, VBA, Bash, LaTeX, et C++ (niveau de base), data viz (streamlit, Rshiny), Word, Excel, Powerpoint.
 
 
 
