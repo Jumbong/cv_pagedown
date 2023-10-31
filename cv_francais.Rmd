@@ -34,7 +34,7 @@ LANGUAGES {#contact}
 
 
 
-OUTILS D'ANALYSE  {#skills}
+OUTILS D'INFORMATIQUES  {#skills}
 --------------------------------------------------------------------------------
 
 - Expérimenté en analyse statistique, en modèles d'apprentissage statistique et en méthodes d'optimisation.
