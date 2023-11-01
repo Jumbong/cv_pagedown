@@ -22,7 +22,8 @@ CONTACT INFO {#contact}
 - <i class="fa fa-github"></i> [github.com/Jumbong](https://github.com/Jumbong)
 - <i class="fa fa-phone"></i> +33 (0)753865698
 - <i class="fa-brands fa-linkedin"></i> [linkedin.com/Jumbong](www.linkedin.com/in/junior-jumbong-258330211)
-<i class="fa-solid fa-location-dot"></i>  Rennes(FRANCE)
+- <i class="fa-solid fa-location-dot"></i>  Rennes(FRANCE)
+- <i class="fa-sharp fa-solid fa-envelope"></i> jumbong.jr@gmail.com
 
 
 
